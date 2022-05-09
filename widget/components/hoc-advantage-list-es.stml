@@ -34,7 +34,7 @@ export default {
 	},
 	computed: {
 		cateItemWidth() {
-			return parseInt((api.winWidth - 38) / 2);
+			return parseInt((api.winWidth - 40) / 2);
 		}
 	}
 }
