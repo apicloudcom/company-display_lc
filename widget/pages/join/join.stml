@@ -2,7 +2,7 @@
 	<view class="page">
 		<scroll-view>
 			<!-- 企业宣传图 -->
-			<hoc-banner-cover-es />
+			<hoc-banner-cover-es src="http://ae8b3ee28597856d3283.qiniucdn.apicloud-system.com/apicloud/67b9a14f680297491cec517ed9aaf2ed.png"/>
 			<!-- 企业分类列表 -->
 			<hoc-sort-list-es />
 			<!-- 企业分类内容 -->

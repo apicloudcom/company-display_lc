@@ -24,6 +24,7 @@ import '../../components/feature-component/hoc-company-detail-es.stml'
 import '../../components/feature-component/hoc-about-us-es.stml'
 import '../../components/feature-component/hoc-tab-bar-es.stml'
 export default {
+	name: 'hoc-home-es',
 	data() {
 		return {
 			// 顶部导航

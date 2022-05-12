@@ -21,7 +21,7 @@ import '../../components/feature-component/hoc-sort-list-es.stml'
 import '../../components/feature-component/hoc-sort-content-es.stml'
 import '../../components/feature-component/hoc-join-form-es.stml'
 export default {
-	name: 'join',
+	name: 'hoc-join-es',
 	apiready() {//like created
 
 	},

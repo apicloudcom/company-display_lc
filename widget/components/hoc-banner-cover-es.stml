@@ -14,7 +14,7 @@ export default {
 	},
 	data(){
 		return {
-			src:this.props.src || "http://ae8b3ee28597856d3283.qiniucdn.apicloud-system.com/apicloud/8d04ca23cfb9cc7aef38aa469f6a0ca3.png"
+			src: this.props.src !== undefined ? this.props.src : "http://ae8b3ee28597856d3283.qiniucdn.apicloud-system.com/apicloud/67b9a14f680297491cec517ed9aaf2ed.png"
 		}
 	}
 }

@@ -16,7 +16,7 @@ import '../../components/feature-component/hoc-case-list-es.stml'
 import '../../components/feature-component/hoc-tab-bar-es.stml'
 
 export default {
-	name: 'case',
+	name: 'hoc-case-es',
 	apiready() {//like created
 
 	},

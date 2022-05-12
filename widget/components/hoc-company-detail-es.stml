@@ -14,7 +14,7 @@ export default {
 	},
 	data(){
 		return{
-			html_detail:this.props.html_detail || "<p><img style='width:100%' src='http://a3a17abb08c7cc355eb5.qiniucdn.apicloud-system.com/apicloud/012458c067707bb7ec2eab06cd88f1be.png' /></p>\n<p><img style='width:100%' src='http://a3a17abb08c7cc355eb5.qiniucdn.apicloud-system.com/apicloud/1d91c1f29e2ead1a11edbc43f3584dbd.png' /></p>"
+			html_detail:this.props.html_detail !== undefined ? this.props.html_detail : '<img src="http://ae8b3ee28597856d3283.qiniucdn.apicloud-system.com/apicloud/049597870908fc92d2fe5f19541cfa1c.png" alt="detail"/>'
 		}
 	}
 }

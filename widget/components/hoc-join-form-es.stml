@@ -6,7 +6,7 @@
 			<input class="f-input" type="text" maxlength="10" :value="valueName" :placeholder="placeholderName"></input>
 		</view>
 		<view class="f-input-box">
-			<input class="f-input" type="number" keyboard-type="number" :value="valuePhone" :placeholder="placeholderPhone" maxlength="11" placeholder="请输入您的联系电话"></input>
+			<input class="f-input" type="number" keyboard-type="number" :value="valuePhone" :placeholder="placeholderPhone" maxlength="11"></input>
 		</view>
 		<button class='f-btn'>提交</button>
 	</view>
@@ -34,10 +34,10 @@ export default {
 	},
 	data(){
 		return {
-			placeholderName:this.props.placeholderName || "请输入您的姓名",
+			placeholderName:this.props.placeholderName !== undefined ? this.props.placeholderName : "请输入您的姓名",
 			valueName:this.props.valueName || "",
-			placeholderPhone:this.props.placeholderPhone || "请输入您的手机号",
-			valuePhone:this.props.valuePhone || "",
+			placeholderPhone:this.props.placeholderPhone !== undefined ? this.props.placeholderPhone : "请输入您的手机号",
+			valuePhone:this.props.valuePhone !== undefined ? this.props.valuePhone : "",
 		}
 	}
 }
