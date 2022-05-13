@@ -23,22 +23,7 @@ export default {
 					{
 					   "id": "1",
 					   "title": "代理政策",
-					   "content":"<div class=\"para\">1、基本条件要求：</div>\n<div class=\"para\">（1）选址：院线实地考察评估；</div>\n<div class=\"para\">（2）选地：影院结构、<a href=\"https://baike.baidu.com/item/%E5%B1%82%E9%AB%98\" target=\"_blank\" rel=\"noopener\">层高</a>、柱距和消防等实地评估；</div>\n<div class=\"para\">（3）<a href=\"https://baike.baidu.com/item/%E8%B5%84%E9%87%91\" target=\"_blank\" rel=\"noopener\">资金</a>：<a href=\"https://baike.baidu.com/item/%E8%9E%8D%E8%B5%84%E8%83%BD%E5%8A%9B\" target=\"_blank\" rel=\"noopener\">融资能力</a>确认、<a href=\"https://baike.baidu.com/item/%E6%8A%95%E8%B5%84\" target=\"_blank\" rel=\"noopener\">投资</a>分析。</div>"
-					 },
-					   {
-					   "id": "2",
-					   "title": "代理政策",
-					   "content":"<div class=\"para\">1、基本条件要求：</div>\n<div class=\"para\">（1）选址：院线实地考察评估；</div>\n<div class=\"para\">（2）选地：影院结构、<a href=\"https://baike.baidu.com/item/%E5%B1%82%E9%AB%98\" target=\"_blank\" rel=\"noopener\">层高</a>、柱距和消防等实地评估；</div>\n<div class=\"para\">（3）<a href=\"https://baike.baidu.com/item/%E8%B5%84%E9%87%91\" target=\"_blank\" rel=\"noopener\">资金</a>：<a href=\"https://baike.baidu.com/item/%E8%9E%8D%E8%B5%84%E8%83%BD%E5%8A%9B\" target=\"_blank\" rel=\"noopener\">融资能力</a>确认、<a href=\"https://baike.baidu.com/item/%E6%8A%95%E8%B5%84\" target=\"_blank\" rel=\"noopener\">投资</a>分析。</div>"
-					 },
-					   {
-					   "id": "3",
-					   "title": "代理政策",
-					   "content":"<div class=\"para\">1、基本条件要求：</div>\n<div class=\"para\">（1）选址：院线实地考察评估；</div>\n<div class=\"para\">（2）选地：影院结构、<a href=\"https://baike.baidu.com/item/%E5%B1%82%E9%AB%98\" target=\"_blank\" rel=\"noopener\">层高</a>、柱距和消防等实地评估；</div>\n<div class=\"para\">（3）<a href=\"https://baike.baidu.com/item/%E8%B5%84%E9%87%91\" target=\"_blank\" rel=\"noopener\">资金</a>：<a href=\"https://baike.baidu.com/item/%E8%9E%8D%E8%B5%84%E8%83%BD%E5%8A%9B\" target=\"_blank\" rel=\"noopener\">融资能力</a>确认、<a href=\"https://baike.baidu.com/item/%E6%8A%95%E8%B5%84\" target=\"_blank\" rel=\"noopener\">投资</a>分析。</div>"
-					 },
-					 {
-					   "id": "4",
-					   "title": "代理政策",
-					   "content":"<div class=\"para\">1、基本条件要求：</div>\n<div class=\"para\">（1）选址：院线实地考察评估；</div>\n<div class=\"para\">（2）选地：影院结构、<a href=\"https://baike.baidu.com/item/%E5%B1%82%E9%AB%98\" target=\"_blank\" rel=\"noopener\">层高</a>、柱距和消防等实地评估；</div>\n<div class=\"para\">（3）<a href=\"https://baike.baidu.com/item/%E8%B5%84%E9%87%91\" target=\"_blank\" rel=\"noopener\">资金</a>：<a href=\"https://baike.baidu.com/item/%E8%9E%8D%E8%B5%84%E8%83%BD%E5%8A%9B\" target=\"_blank\" rel=\"noopener\">融资能力</a>确认、<a href=\"https://baike.baidu.com/item/%E6%8A%95%E8%B5%84\" target=\"_blank\" rel=\"noopener\">投资</a>分析。</div>"
+					   "content":"<div class=\"p1\" style=\"margin-top: 0; \"><span style=\"color: #6d6d6d; font-size: 14px; line-height: 24px; display: block; \">丹东凤凰山自古有辽东第一山的美誉。常年吸引全国各地游客前来观赏。山上的泉水清甜甘洌，是大自然对于小镇市民最好的馈赠。而老毕纯粮就坐落在凤凰山脚下，坚持纯粮酿造，借凤凰山名号可以作为特产出售。我们不生产酒，我们只是大自然的搬运工。</span></div>\n<div class=\"p1\" style=\"margin-top: 0; \"><span style=\"color: #6d6d6d; font-size: 14px; line-height: 24px; display: block; \">茶叶源于中国，茶叶最早是被作为祭品使用的。但从春秋后期就被人们作为菜食，在西汉中期发展为药用，西汉后期才发展为宫廷高级饮料，普及民间作为普通饮料那是西晋以后的事。</span></div>\n<div class=\"p1\" style=\"margin-top: 0; \"><span style=\"color: #6d6d6d; font-size: 14px; line-height: 24px; display: block; \"><img style=\"width: 100%;\" src=\"http://ae8b3ee28597856d3283.qiniucdn.apicloud-system.com/apicloud/088027e418a92d499df3067228bcd536.png\" /></span></div>\n<div class=\"p1\" style=\"margin-top: 0; \"><span style=\"color: #6d6d6d; font-size: 14px; line-height: 24px; display: block; \">中国目前白酒市场上，至少有60%-70%的白酒属于非纯粮酿造的酒精勾兑酒。尽管国家允许白酒生产使用食用酒精，但添加食用酒精勾兑与纯粮酿造酒成本悬殊至少在2倍以上，然而许多白酒企业却“用而不标”。</span></div>"
 					 }
 				   ]
 		}
@@ -54,5 +39,8 @@ export default {
 .sc-content-title {
 	font-weight: 500;
 	padding: 10px 0;
+	font-size: 16px;
+  	color: #333;
+	display: block;
 }
 </style>
